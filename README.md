@@ -10,11 +10,9 @@ to check and correct spelling mistakes of user.
 THE NAME OF OUR PROGRAM IS TEXT EDITOR
 THE PROGRAM IS A SMALLER VERSION OF A WORD EDITOR.
 
-by   Manish                  &             Gautam
-       |                                      |
-      \|/                                    \|/ 
-manish21295@yahoo.com,                 gauthamdasu@gmail.com
-2manish12kumar95@gmail.com
+Manish  - manish21295@yahoo.com          
+Gautam  - gauthamdasu@gmail.com
+
 
 This program provides the features of searching for a word in dictoinary,inserting,deletion of a word in a dictonary.It provides with a tab feature,which when pressed gives suggestions about the word pressed and allows you to write from where you left in the word.
 
