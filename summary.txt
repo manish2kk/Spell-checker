@@ -1,0 +1,22 @@
+                                             
+ 
+   THE TITLE OF THE PROJECT IS Text Editor.
+   THIS Text Editor CONTAINS THE FOLLOWING :
+   
+     1. It implement dictionary in trees.
+   
+     2. It facilitates the searching of english words in a dictionary.
+   
+     3. If a word is not in the dictionary,it allows user to insert in dictionary.
+  
+     4. It also allow users to delete a word from the dictionary.
+  
+     5. It allows user to write in a text editor,which helps user to correct there
+       spelling mistakes.
+       
+     6. It uses the words which are downloaded from the internet and it is parsed 
+       accordingly for building the tree.
+  
+     7.It has a feature called "tab" feature which checkes the for words which are near to that word.
+
+   
